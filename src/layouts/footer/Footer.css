@@ -1,0 +1,22 @@
+.footer {
+    /* border-top:2px solid red; */
+    /* position: fixed; */
+    z-index: 1000;
+    width: 100%;
+    bottom: 0;
+    color: rgb(24, 23, 23);
+
+    /* background: pink; */
+    background: #FFFFFF;
+    font-size: 15px;
+    opacity: 0.9;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+    max-height: calc(100% - 64px);
+}
+
+
+
+
+/* .footer .css-1slmczd-MuiStack-root>:not(style)+:not(style) {
+margin-left: unset !important;
+} */
